@@ -1,7 +1,7 @@
 def details():
     name="Kasthuri"
-    email="kasthuri@gmail.com"
-
-    print(name,email)
+    #email="kasthuri@gmail.com"
+    courses="Python"
+    print(name,courses)
 
 details()
